@@ -1,0 +1,16 @@
+Definition item list:
+		1) __400__ HTTPS / CLS ARM
+		2) __398__ Miss Bib-img / R:/redact
+		3a) __396__ Daily Accounts Expired
+		3b) __394__ Daily Accounts Renewed
+		3c) __392__ Daily Accounts Created
+		4) __390__ Suppress Items
+		4) __388__ UNSupress Items
+		5) __386__ Suppress Orders
+		6) __384__ On Order Delete
+		7) __380__ Summary Availability
+		8) __500__ Daily Statistics [UNAVAILABLE]
+		9) __???__ Collection Master Booklet
+		10) (local) Automated Daily Routine
+		
+		x) tool__ tools / list / compare list A_B / sort ascending / clock speed / datestamp / timestamp / exit
